@@ -1,0 +1,5 @@
+C:\Projetos\TesteCnova\Infra\bin\Debug\Infra.dll
+C:\Projetos\TesteCnova\Infra\bin\Debug\Infra.pdb
+C:\Projetos\TesteCnova\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteCnova\Infra\obj\Debug\Infra.dll
+C:\Projetos\TesteCnova\Infra\obj\Debug\Infra.pdb

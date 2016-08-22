@@ -1,0 +1,7 @@
+C:\Projetos\TesteCnova\DTO\bin\Debug\DTO.dll
+C:\Projetos\TesteCnova\DTO\bin\Debug\DTO.pdb
+C:\Projetos\TesteCnova\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteCnova\DTO\obj\Debug\DTO.dll
+C:\Projetos\TesteCnova\DTO\obj\Debug\DTO.pdb
+C:\Projetos\TesteCnova\DTO\bin\Debug\Infra.dll
+C:\Projetos\TesteCnova\DTO\bin\Debug\Infra.pdb

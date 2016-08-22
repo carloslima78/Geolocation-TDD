@@ -1,0 +1,14 @@
+C:\Projetos\TesteCnova\TDD\bin\Debug\TDD.dll
+C:\Projetos\TesteCnova\TDD\bin\Debug\TDD.pdb
+C:\Projetos\TesteCnova\TDD\bin\Debug\BLL.dll
+C:\Projetos\TesteCnova\TDD\bin\Debug\DTO.dll
+C:\Projetos\TesteCnova\TDD\bin\Debug\DAL.dll
+C:\Projetos\TesteCnova\TDD\bin\Debug\Infra.dll
+C:\Projetos\TesteCnova\TDD\bin\Debug\BLL.pdb
+C:\Projetos\TesteCnova\TDD\bin\Debug\DTO.pdb
+C:\Projetos\TesteCnova\TDD\bin\Debug\DAL.pdb
+C:\Projetos\TesteCnova\TDD\bin\Debug\Infra.pdb
+C:\Projetos\TesteCnova\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteCnova\TDD\obj\Debug\TDD.dll
+C:\Projetos\TesteCnova\TDD\obj\Debug\TDD.pdb
+C:\Projetos\TesteCnova\TDD\bin\Debug\TDD.dll.config

@@ -1,0 +1,14 @@
+C:\Projetos\TesteCnova\Console\bin\Debug\Console.exe.config
+C:\Projetos\TesteCnova\Console\bin\Debug\Console.exe
+C:\Projetos\TesteCnova\Console\bin\Debug\Console.pdb
+C:\Projetos\TesteCnova\Console\bin\Debug\BLL.dll
+C:\Projetos\TesteCnova\Console\bin\Debug\DTO.dll
+C:\Projetos\TesteCnova\Console\bin\Debug\DAL.dll
+C:\Projetos\TesteCnova\Console\bin\Debug\BLL.pdb
+C:\Projetos\TesteCnova\Console\bin\Debug\DTO.pdb
+C:\Projetos\TesteCnova\Console\bin\Debug\DAL.pdb
+C:\Projetos\TesteCnova\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteCnova\Console\obj\Debug\Console.exe
+C:\Projetos\TesteCnova\Console\obj\Debug\Console.pdb
+C:\Projetos\TesteCnova\Console\bin\Debug\Infra.dll
+C:\Projetos\TesteCnova\Console\bin\Debug\Infra.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\TesteCnova\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteCnova\DAL\bin\Debug\DAL.dll
+C:\Projetos\TesteCnova\DAL\bin\Debug\DAL.pdb
+C:\Projetos\TesteCnova\DAL\obj\Debug\DAL.dll
+C:\Projetos\TesteCnova\DAL\obj\Debug\DAL.pdb
+C:\Projetos\TesteCnova\DAL\bin\Debug\Infra.dll
+C:\Projetos\TesteCnova\DAL\bin\Debug\Infra.pdb
